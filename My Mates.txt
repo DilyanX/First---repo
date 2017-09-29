@@ -1,0 +1,23 @@
+..................................................................................................................................................
+1.What is your name?: Vasil Grigorov	
+2.Where are you from?: Smolyan
+3.What hobbies do he you have? : playing Star Craft, Reading, 
+4.Why did he choose SoftUni? : He want to become programmer.
+...................................................................................................................................................
+
+1.What is your name? : Bozhidar
+2.Where are you from? : Sofia
+3.What hobbies do he have? : REading books , Cycling.
+4.Why did he choose SoftUni? : Friend support.
+...................................................................................................................................................
+
+1.What is your name? : Galin		
+2.Where are you from? : Gabrovo
+3.What hobbies do he have? : Playing basketball, playing video games.
+4.Why did he choose SoftUni? : Because he thinks this is the place to learn programming.
+...................................................................................................................................................
+
+1.What is your name? : Kristiana
+2.Where are you from? : Sofia
+3.What hobbies do he have? : Watching movies and Game of Thrones.
+4.Why did he choose SoftUni? : Because She find programing interesting and she want to learn to become programmer.
